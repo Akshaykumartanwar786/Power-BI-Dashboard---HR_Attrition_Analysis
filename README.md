@@ -1,1 +1,3 @@
 # HR_Attrition_Analysis
+This project focuses on analyzing HR attrition data to uncover patterns and insights that can help organizations better understand employee turnover. By leveraging data visualization techniques and statistical analysis, the project aims to identify key factors contributing to attrition, such as job satisfaction, work-life balance, and career development opportunities. The analysis is performed using Power BI, enabling interactive dashboards that provide actionable insights for HR decision-makers. This repository contains the Power BI file, along with documentation on the data sources, methodology, and key findings.
+
